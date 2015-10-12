@@ -1,0 +1,15 @@
+Practice projects - not graded
+
+#Solitaire Mancala
+http://www.codeskulptor.org/#user40_q26d43TbR6_5.py
+
+Mini-Projects - graded
+
+#2048 merge function
+#  v. 0 - 3
+http://www.codeskulptor.org/#user40_zXUnqaIF2W_3.py
+#  v. 4
+http://www.codeskulptor.org/#user40_0ej5PLuo32_0.py
+
+#2048 full program
+http://www.codeskulptor.org/#user40_Of6OVJzelW_0.py
